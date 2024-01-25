@@ -28,7 +28,4 @@ yolov8m.pt
 yolov8n-cls.pt
 yolov8n-obb.pt
 yolov8n-pose.pt
-yolov8n-seg.pt
-yolov8n.pt
 yolov8s-obb.pt
-yolov8s-seg.pt
