@@ -8,6 +8,7 @@ video3.mp4
 video4.mp4
 video5.mp4
 data/
+__pycache__
 api.py
 video6.mp4
 app.bat
